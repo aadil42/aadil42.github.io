@@ -53,7 +53,6 @@
     "file-loader": "^6.0.0",
     "html-loader": "^1.1.0",
     "html-webpack-plugin": "^4.2.0",
-    "husky": "^4.3.0",
     "jest": "^26.0.1",
     "jest-cli": "^26.0.1",
     "mini-css-extract-plugin": "^0.9.0",
@@ -118,12 +117,6 @@
         }
       ]
     ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint && npm t",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
   },
   "commitlint": {
     "extends": [
