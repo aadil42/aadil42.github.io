@@ -5,7 +5,6 @@ import {
   Carousel,
   Tabs,
   Tab
-
 } from 'react-materialize'
 
 import { SKILLS, INFO } from '../constant'
