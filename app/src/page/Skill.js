@@ -36,7 +36,7 @@ const Title = () =>
   </div>
 
 const TabSkills = () =>
-  <Tabs onChange={ handleClick }>{ Object.entries(SKILLS).map(([skill, skills], index) =>
+  <Tabs onChange={ handleClick }>{ Object.entries(SKILLS).map(([skill, skills], index) => 
     <Tab key={ index } title={ skill }>
       <Carousel className="carousel" carouselId={`Carousel-${index}`} images={ skills }/>
     </Tab>
