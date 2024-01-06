@@ -1,8 +1,8 @@
 const INFO = {
-  name: 'Ayyaz Akhtar',
-  email: 'ayyazakhtar1@gmail.com',
-  summary: 'Software Architect',
-  profession: 'Software Architect',
+  name: 'aadil42',
+  email: 'adilkelawala@gmail.com',
+  summary: 'Software Engineer',
+  profession: 'Software Engineer',
   resume: '../../public/Documents/Resume.pdf'
 }
 
