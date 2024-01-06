@@ -1,8 +1,8 @@
 {
-  "name": "website",
+  "name": "portfolio-website",
   "version": "0.0.0",
   "description": "",
-  "author": "Ayyaz Akhtar",
+  "author": "aadil42",
   "main": "index.js",
   "license": "ISC",
   "scripts": {
