@@ -38,10 +38,14 @@ const Email = () =>
 const Social = () =>
   <Animated animationInDelay={ 1000 } animationIn="fadeInUp" animationInDuration={ 1500 }>
     <ul>{ CONTACT.map(({ media, path, icon }, index) =>
-      <a key={ index } className="white-text" href={ path } target="_blank" onClick={ handleClick.bind(null, media) }>
-        <i className={`icon ${icon}  fa-2x`}></i>
-      </a>
-    )}</ul>
+    {
+      return (<a key={ index } className="white-text" href={ path } target="_blank" onClick={ handleClick.bind(null, media) }>
+                  <i className={`icon ${icon}  fa-2x`}></i>
+                </a>);
+    }
+    
+    )}
+    </ul>
   </Animated>
 
 const Footer = () =>

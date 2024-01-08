@@ -45,9 +45,9 @@ const CONTACT = [{
   path: 'https://github.com/aadil42',
   icon: 'fab fa-github'
 }, {
-  media: 'Dev.tO',
-  path: 'https://dev.to/aakhtar3',
-  icon: 'fab fa-dev'
+  // media: 'LeetCode',
+  // path: 'https://leetcode.com/aadil42/',
+  // icon: 'cib-leetcode'
 }]
 
 export {
