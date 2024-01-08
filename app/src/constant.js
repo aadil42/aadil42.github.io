@@ -8,9 +8,9 @@ const INFO = {
 
 const SKILLS = {
   client: [
-    '/Images/Skills/Client/html.png',
-    '/Images/Skills/Client/css.png',
-    '/Images/Skills/Client/react.png',
+    '../../public/Images/Skills/Client/html.png',
+    '../../public/Images/Skills/Client/css.png',
+    '../../public/Images/Skills/Client/react.png',
   ]
 }
 
