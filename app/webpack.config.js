@@ -62,7 +62,7 @@ const config = {
                     name: 'public/[hash].[ext]',
                 }
             }]
-        }]
+        },]
     }
 };
 

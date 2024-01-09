@@ -1,3 +1,9 @@
+// importing svg icons
+// import leetCodeSvg from "../Svgs/leetcode-svgrepo-com.svg";
+// import GitHubSvg from "../Svgs/github-142-svgrepo-com.svg";
+// import LinkedinSvg from "../Svgs/linkedin-svgrepo-com.svg";
+
+
 const INFO = {
   name: 'aadil42',
   email: 'adilkelawala@gmail.com',
@@ -50,9 +56,28 @@ const CONTACT = [{
   // icon: 'cib-leetcode'
 }]
 
+
+// const SVGIcons = [
+//   {
+//     media: 'Linkedin',
+//     path: 'https://www.linkedin.com/in/aadil-k-525717199/',
+//     icon: leetCodeSvg
+//   },
+//   {
+//     media: 'Github',
+//     path: 'https://github.com/aadil42',
+//     icon: GitHubSvg
+//   },
+//   {
+//     media: 'LeetCode',
+//     path: 'https://leetcode.com/aadil42/',
+//     icon: LinkedinSvg
+//   }
+// ]
+
 export {
   INFO,
   SKILLS,
   PHOTOGRAPHY,
-  CONTACT
+  CONTACT,
 }
