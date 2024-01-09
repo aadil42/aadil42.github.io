@@ -17,6 +17,16 @@ const SKILLS = {
     '../../public/Images/Skills/Client/html.png',
     '../../public/Images/Skills/Client/css.png',
     '../../public/Images/Skills/Client/react.png',
+    '../../public/Images/Skills/Client/javascript.png'
+  ],
+  cms: [
+    "../../public/Images/Skills/CMS/shopify.png",
+    "../../public/Images/Skills/CMS/wordpress.png"
+  ],
+  tools: [
+    "../../public/Images/Skills/Tools/git.png",
+    "../../public/Images/Skills/Tools/github.png",
+    "../../public/Images/Skills/Tools/linux.png"
   ]
 }
 
