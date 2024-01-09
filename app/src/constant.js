@@ -3,7 +3,7 @@ const INFO = {
   email: 'adilkelawala@gmail.com',
   summary: 'Software Engineer',
   profession: 'Software Engineer',
-  resume: '../../Documents/Resume.pdf'
+  resume: '../../public/Documents/Resume.pdf'
 }
 
 const SKILLS = {
