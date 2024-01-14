@@ -21,7 +21,8 @@ const SKILLS = {
   ],
   cms: [
     "../../public/Images/Skills/CMS/shopify.png",
-    "../../public/Images/Skills/CMS/wordpress.png"
+    "../../public/Images/Skills/CMS/wordpress.png",
+    "../Images/Skills/CMS/shopify.png"
   ],
   tools: [
     "../../public/Images/Skills/Tools/git.png",
