@@ -22,12 +22,16 @@ const SKILLS = {
   cms: [
     "../../public/Images/Skills/CMS/shopify.png",
     "../../public/Images/Skills/CMS/wordpress.png",
-    "../Images/Skills/CMS/shopify.png"
+    "../Images/Skills/CMS/shopify.png",
+    "../Images/Skills/CMS/wordpress.png"
   ],
   tools: [
     "../../public/Images/Skills/Tools/git.png",
     "../../public/Images/Skills/Tools/github.png",
-    "../../public/Images/Skills/Tools/linux.png"
+    "../../public/Images/Skills/Tools/linux.png",
+    "../Images/Skills/Tools/git.png",
+    "../Images/Skills/Tools/github.png",
+    "./Images/Skills/Tools/linux.png"
   ]
 }
 
