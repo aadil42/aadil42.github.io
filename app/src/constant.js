@@ -29,6 +29,7 @@ const SKILLS = {
     "../../public/Images/Skills/Tools/git.png",
     "../../public/Images/Skills/Tools/github.png",
     "../../public/Images/Skills/Tools/linux.png",
+    "./Images/Skills/Tools/linux.png"
     // "../Images/Skills/Tools/git.png",
     // "../Images/Skills/Tools/github.png",
     // "./Images/Skills/Tools/linux.png"
